@@ -11,7 +11,7 @@
 ## Test Case
 
 ```JAVA
-// Given
+// Given int array range from 0 -> 100
 int[] input =
 {
    28,48,72,11,18,34,33,46,40,2,
