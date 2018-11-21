@@ -42,7 +42,7 @@ int[] expected =
 };
 ```
 
-### Advance
+## Advance
 
 假如寫完3種或以上的sorting方法
 
