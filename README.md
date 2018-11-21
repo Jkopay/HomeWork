@@ -42,4 +42,8 @@ int[] expected =
 };
 ```
 
+### Advance
+
+假如寫完3種或以上的sorting方法
+
 試著跑跑看，假如給予5W個int是不是sorting速度會一樣?
